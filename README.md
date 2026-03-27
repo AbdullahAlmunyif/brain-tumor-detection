@@ -6,6 +6,10 @@ The model classifies images into two categories: Tumor and Non-Tumor, aiming to 
 
 ---
 
+## 🎯 Key Skills
+Deep Learning | CNN | AI | Medical Imaging | Computer Vision
+
+
 ## 🚀 Approach
 - Built a Convolutional Neural Network (CNN)
 - Applied Transfer Learning using VGG16
@@ -33,10 +37,6 @@ The model classifies images into two categories: Tumor and Non-Tumor, aiming to 
 ## 📸 Output
 ![Model Result](https://raw.githubusercontent.com/AbdullahAlmunyif/brain-tumor-detection/main/Data%20analysis%20and%20recommendations%20overview.png)
 
----
-
-## 🎯 Key Skills
-Deep Learning | CNN | AI | Medical Imaging | Computer Vision
 
 ---
 

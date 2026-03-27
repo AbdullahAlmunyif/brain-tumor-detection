@@ -1,4 +1,3 @@
-# brain-tumor-detection
 ## 🛠️ Technologies
 - Python
 - TensorFlow

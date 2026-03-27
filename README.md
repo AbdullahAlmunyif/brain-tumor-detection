@@ -1,25 +1,45 @@
 # 🧠 Brain Tumor Detection using Deep Learning
 
 ## 📌 Overview
-This project aims to detect brain tumors from MRI images using Deep Learning techniques.
+This project focuses on detecting brain tumors from MRI images using Deep Learning techniques.  
+The model classifies images into two categories: Tumor and Non-Tumor, aiming to support medical diagnosis with high accuracy.
+
+---
 
 ## 🚀 Approach
 - Built a Convolutional Neural Network (CNN)
-- Used Transfer Learning (VGG16)
-- Applied Data Augmentation
+- Applied Transfer Learning using VGG16
+- Performed Data Preprocessing and Augmentation
+- Trained and evaluated the model on MRI image dataset
+
+---
 
 ## 🛠️ Technologies
 - Python
 - TensorFlow
 - Keras
 - OpenCV
+- NumPy
+
+---
 
 ## 📊 Results
-- Achieved 95% accuracy
-- Strong performance on validation data
+- Achieved **95% accuracy**
+- High performance on validation and test data
+- Efficient classification of MRI images
+
+---
 
 ## 📸 Output
-![Result](حط_رابط_الصورة_raw_هنا)
+![Model Result](https://raw.githubusercontent.com/AbdullahAlmunyif/brain-tumor-detection/main/Data%20analysis%20and%20recommendations%20overview.png)
+
+---
 
 ## 🎯 Key Skills
-Deep Learning | CNN | AI | Medical Imaging
+Deep Learning | CNN | AI | Medical Imaging | Computer Vision
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/almunyifanalyst/
+- GitHub: https://github.com/AbdullahAlmunyif

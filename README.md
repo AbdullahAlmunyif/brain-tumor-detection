@@ -45,7 +45,7 @@ cd brain-tumor-detection
 
 2. Create a virtual environment (recommended):
 ```bash
-python -m venv venv
+python 
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ### Quick Start
 ```bash
-python main.py
+python 
 ```
 
 ## 📁 Project Structure

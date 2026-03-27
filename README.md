@@ -10,7 +10,6 @@ A deep learning project that leverages TensorFlow and Keras to train convolution
 - [Results](#️-results)
 - [Usage](#-usage)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## ✨ Features
 - Automatic detection of brain tumors from medical images
@@ -113,9 +112,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 **Abdullah Almunyif**
